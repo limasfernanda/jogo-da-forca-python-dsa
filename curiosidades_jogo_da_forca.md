@@ -29,3 +29,6 @@ Caso o boneco fique completo, ganha o desafiante. Mas, caso os jogadores consiga
 - Estimula a concentração;
 
 - Contribui para a lógica e a agilidade.
+
+
+Autoria : [Fernanda Lima](https://github.com/limasfernanda)
